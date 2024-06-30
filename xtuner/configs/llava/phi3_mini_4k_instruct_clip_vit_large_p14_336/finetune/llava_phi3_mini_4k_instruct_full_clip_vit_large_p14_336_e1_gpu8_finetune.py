@@ -50,7 +50,7 @@ save_total_limit = 2  # Maximum checkpoints to keep (-1 means unlimited)
 # Evaluate the generation performance during the training
 evaluation_freq = 1000
 SYSTEM = ''
-evaluation_images = 'https://llava-vl.github.io/static/images/view.jpg'
+evaluation_images = 'view.jpg'
 evaluation_inputs = ['请描述一下这张照片', 'Please describe this picture']
 
 #######################################################################
