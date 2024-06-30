@@ -257,6 +257,8 @@ def expand2square(pil_img, background_color):
 
 
 def load_image(image_file):
+    # print("###" * 100)
+    # print("image_file", image_file)
     if image_file.startswith('http://') or image_file.startswith('https://'):
         response = requests.get(image_file)
         image = Image.open(BytesIO(response.content)).convert('RGB')

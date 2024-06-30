@@ -1,0 +1,4 @@
+NPROC_PER_NODE=8 xtuner train llava_phi3_mini_4k_instruct_clip_vit_large_p14_336_e1_gpu8_pretrain_copy.py --deepspeed deepspeed_zero2
+
+sleep 10m
+NPROC_PER_NODE=8 xtuner train llava_phi3_mini_4k_instruct_full_clip_vit_large_p14_336_e1_gpu8_finetune_copy.py --deepspeed deepspeed_zero2
