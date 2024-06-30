@@ -1377,3 +1377,448 @@ wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out
 [93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
 [93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.3
 [93m [WARNING] [0m using untested triton version (2.3.1), only 1.0.0 is known to be compatible
+06/30 13:55:12 - mmengine - WARNING - Use random port: 20781
+[2024-06-30 13:55:14,118] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-06-30 13:55:22,372] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-06-30 13:55:22,386] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-06-30 13:55:22,441] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-06-30 13:55:22,458] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-06-30 13:55:22,463] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-06-30 13:55:22,476] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-06-30 13:55:22,485] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2024-06-30 13:55:22,489] [INFO] [real_accelerator.py:203:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m async_io requires the dev libaio .so object and headers but these were not found.
+[93m [WARNING] [0m async_io: please install the libaio-dev package with apt
+[93m [WARNING] [0m If libaio is already installed (perhaps from source), try setting the CFLAGS and LDFLAGS environment variables to where it can be found.
+[93m [WARNING] [0m Please specify the CUTLASS repo directory as environment variable $CUTLASS_PATH
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.3
+[93m [WARNING] [0m using untested triton version (2.3.1), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.3
+[93m [WARNING] [0m using untested triton version (2.3.1), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.3
+[93m [WARNING] [0m using untested triton version (2.3.1), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.3
+[93m [WARNING] [0m using untested triton version (2.3.1), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.3
+[93m [WARNING] [0m using untested triton version (2.3.1), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.3
+[93m [WARNING] [0m using untested triton version (2.3.1), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.3
+[93m [WARNING] [0m using untested triton version (2.3.1), only 1.0.0 is known to be compatible
+[93m [WARNING] [0m sparse_attn requires a torch version >= 1.5 and < 2.0 but detected 2.3
+[93m [WARNING] [0m using untested triton version (2.3.1), only 1.0.0 is known to be compatible
+[2024-06-30 13:55:24,299] [INFO] [comm.py:637:init_distributed] cdb=None
+[2024-06-30 13:55:24,299] [INFO] [comm.py:668:init_distributed] Initializing TorchBackend in DeepSpeed with backend nccl
+[2024-06-30 13:55:25,480] [INFO] [comm.py:637:init_distributed] cdb=None
+[2024-06-30 13:55:25,513] [INFO] [comm.py:637:init_distributed] cdb=None
+[2024-06-30 13:55:25,528] [INFO] [comm.py:637:init_distributed] cdb=None
+[2024-06-30 13:55:25,529] [INFO] [comm.py:637:init_distributed] cdb=None
+[2024-06-30 13:55:25,529] [INFO] [comm.py:637:init_distributed] cdb=None
+[2024-06-30 13:55:25,530] [INFO] [comm.py:637:init_distributed] cdb=None
+[2024-06-30 13:55:25,566] [INFO] [comm.py:637:init_distributed] cdb=None
+06/30 13:55:29 - mmengine - INFO - 
+------------------------------------------------------------
+System environment:
+    sys.platform: linux
+    Python: 3.10.14 (main, May  6 2024, 19:42:50) [GCC 11.2.0]
+    CUDA available: True
+    MUSA available: False
+    numpy_random_seed: 541056542
+    GPU 0,1,2,3,4,5,6,7: NVIDIA A800 80GB PCIe
+    CUDA_HOME: /usr/local/cuda
+    NVCC: Cuda compilation tools, release 12.1, V12.1.105
+    GCC: gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+    PyTorch: 2.3.1+cu121
+    PyTorch compiling details: PyTorch built with:
+  - GCC 9.3
+  - C++ Version: 201703
+  - Intel(R) oneAPI Math Kernel Library Version 2022.2-Product Build 20220804 for Intel(R) 64 architecture applications
+  - Intel(R) MKL-DNN v3.3.6 (Git Hash 86e6af5974177e513fd3fee58425e1063e7f1361)
+  - OpenMP 201511 (a.k.a. OpenMP 4.5)
+  - LAPACK is enabled (usually provided by MKL)
+  - NNPACK is enabled
+  - CPU capability usage: AVX512
+  - CUDA Runtime 12.1
+  - NVCC architecture flags: -gencode;arch=compute_50,code=sm_50;-gencode;arch=compute_60,code=sm_60;-gencode;arch=compute_70,code=sm_70;-gencode;arch=compute_75,code=sm_75;-gencode;arch=compute_80,code=sm_80;-gencode;arch=compute_86,code=sm_86;-gencode;arch=compute_90,code=sm_90
+  - CuDNN 8.9.2
+  - Magma 2.6.1
+  - Build settings: BLAS_INFO=mkl, BUILD_TYPE=Release, CUDA_VERSION=12.1, CUDNN_VERSION=8.9.2, CXX_COMPILER=/opt/rh/devtoolset-9/root/usr/bin/c++, CXX_FLAGS= -D_GLIBCXX_USE_CXX11_ABI=0 -fabi-version=11 -fvisibility-inlines-hidden -DUSE_PTHREADPOOL -DNDEBUG -DUSE_KINETO -DLIBKINETO_NOROCTRACER -DUSE_FBGEMM -DUSE_QNNPACK -DUSE_PYTORCH_QNNPACK -DUSE_XNNPACK -DSYMBOLICATE_MOBILE_DEBUG_HANDLE -O2 -fPIC -Wall -Wextra -Werror=return-type -Werror=non-virtual-dtor -Werror=bool-operation -Wnarrowing -Wno-missing-field-initializers -Wno-type-limits -Wno-array-bounds -Wno-unknown-pragmas -Wno-unused-parameter -Wno-unused-function -Wno-unused-result -Wno-strict-overflow -Wno-strict-aliasing -Wno-stringop-overflow -Wsuggest-override -Wno-psabi -Wno-error=pedantic -Wno-error=old-style-cast -Wno-missing-braces -fdiagnostics-color=always -faligned-new -Wno-unused-but-set-variable -Wno-maybe-uninitialized -fno-math-errno -fno-trapping-math -Werror=format -Wno-stringop-overflow, LAPACK_INFO=mkl, PERF_WITH_AVX=1, PERF_WITH_AVX2=1, PERF_WITH_AVX512=1, TORCH_VERSION=2.3.1, USE_CUDA=ON, USE_CUDNN=ON, USE_CUSPARSELT=1, USE_EXCEPTION_PTR=1, USE_GFLAGS=OFF, USE_GLOG=OFF, USE_GLOO=ON, USE_MKL=ON, USE_MKLDNN=ON, USE_MPI=OFF, USE_NCCL=1, USE_NNPACK=ON, USE_OPENMP=ON, USE_ROCM=OFF, USE_ROCM_KERNEL_ASSERT=OFF, 
+
+    TorchVision: 0.18.1+cu121
+    OpenCV: 4.10.0
+    MMEngine: 0.10.4
+
+Runtime environment:
+    launcher: pytorch
+    randomness: {'seed': None, 'deterministic': False}
+    cudnn_benchmark: False
+    mp_cfg: {'mp_start_method': 'fork', 'opencv_num_threads': 0}
+    dist_cfg: {'backend': 'nccl'}
+    seed: None
+    deterministic: False
+    Distributed launcher: pytorch
+    Distributed training: True
+    GPU number: 8
+------------------------------------------------------------
+
+06/30 13:55:30 - mmengine - INFO - Config:
+SYSTEM = ''
+accumulative_counts = 2
+batch_size = 8
+betas = (
+    0.9,
+    0.999,
+)
+custom_hooks = [
+    dict(
+        tokenizer=dict(
+            padding_side='right',
+            pretrained_model_name_or_path=
+            '/root/autodl-tmp/tzn/Projects/pretrained/LLM-Research/Phi-3-mini-4k-instruct',
+            trust_remote_code=True,
+            type='transformers.AutoTokenizer.from_pretrained'),
+        type='xtuner.engine.hooks.DatasetInfoHook'),
+    dict(
+        evaluation_images='view.jpg',
+        evaluation_inputs=[
+            '请描述一下这张照片',
+            'Please describe this picture',
+        ],
+        every_n_iters=1000,
+        image_processor=dict(
+            pretrained_model_name_or_path=
+            '/root/autodl-tmp/tzn/Projects/pretrained/clip/clip-vit-large-patch14-336',
+            trust_remote_code=True,
+            type='transformers.CLIPImageProcessor.from_pretrained'),
+        prompt_template='xtuner.utils.PROMPT_TEMPLATE.phi3_chat',
+        system='',
+        tokenizer=dict(
+            padding_side='right',
+            pretrained_model_name_or_path=
+            '/root/autodl-tmp/tzn/Projects/pretrained/LLM-Research/Phi-3-mini-4k-instruct',
+            trust_remote_code=True,
+            type='transformers.AutoTokenizer.from_pretrained'),
+        type='xtuner.engine.hooks.EvaluateChatHook'),
+]
+data_path = './data/llava_data/LLaVA-Instruct-150K/llava_v1_5_mix665k.json'
+data_root = './data/llava_data/'
+dataloader_num_workers = 4
+default_hooks = dict(
+    checkpoint=dict(
+        by_epoch=False,
+        interval=1000,
+        max_keep_ckpts=2,
+        type='mmengine.hooks.CheckpointHook'),
+    logger=dict(
+        interval=10,
+        log_metric_by_epoch=False,
+        type='mmengine.hooks.LoggerHook'),
+    param_scheduler=dict(type='mmengine.hooks.ParamSchedulerHook'),
+    sampler_seed=dict(type='mmengine.hooks.DistSamplerSeedHook'),
+    timer=dict(type='mmengine.hooks.IterTimerHook'))
+env_cfg = dict(
+    cudnn_benchmark=False,
+    dist_cfg=dict(backend='nccl'),
+    mp_cfg=dict(mp_start_method='fork', opencv_num_threads=0))
+evaluation_freq = 1000
+evaluation_images = 'view.jpg'
+evaluation_inputs = [
+    '请描述一下这张照片',
+    'Please describe this picture',
+]
+image_folder = './data/llava_data/llava_images'
+image_processor = dict(
+    pretrained_model_name_or_path=
+    '/root/autodl-tmp/tzn/Projects/pretrained/clip/clip-vit-large-patch14-336',
+    trust_remote_code=True,
+    type='transformers.CLIPImageProcessor.from_pretrained')
+launcher = 'pytorch'
+llava_dataset = dict(
+    data_path='./data/llava_data/LLaVA-Instruct-150K/llava_v1_5_mix665k.json',
+    dataset_map_fn='xtuner.dataset.map_fns.llava_map_fn',
+    image_folder='./data/llava_data/llava_images',
+    image_processor=dict(
+        pretrained_model_name_or_path=
+        '/root/autodl-tmp/tzn/Projects/pretrained/clip/clip-vit-large-patch14-336',
+        trust_remote_code=True,
+        type='transformers.CLIPImageProcessor.from_pretrained'),
+    max_length=1472,
+    pad_image_to_square=True,
+    template_map_fn=dict(
+        template='xtuner.utils.PROMPT_TEMPLATE.phi3_chat',
+        type='xtuner.dataset.map_fns.template_map_fn_factory'),
+    tokenizer=dict(
+        padding_side='right',
+        pretrained_model_name_or_path=
+        '/root/autodl-tmp/tzn/Projects/pretrained/LLM-Research/Phi-3-mini-4k-instruct',
+        trust_remote_code=True,
+        type='transformers.AutoTokenizer.from_pretrained'),
+    type='xtuner.dataset.LLaVADataset')
+llm_name_or_path = '/root/autodl-tmp/tzn/Projects/pretrained/LLM-Research/Phi-3-mini-4k-instruct'
+load_from = None
+log_level = 'INFO'
+log_processor = dict(by_epoch=False)
+lr = 2e-05
+max_epochs = 1
+max_length = 1472
+max_norm = 1
+model = dict(
+    freeze_llm=False,
+    freeze_visual_encoder=True,
+    llm=dict(
+        pretrained_model_name_or_path=
+        '/root/autodl-tmp/tzn/Projects/pretrained/LLM-Research/Phi-3-mini-4k-instruct',
+        trust_remote_code=True,
+        type='transformers.AutoModelForCausalLM.from_pretrained'),
+    pretrained_pth=
+    './work_dirs/llava_phi3_mini_4k_instruct_clip_vit_large_p14_336_e1_gpu8_pretrain_copy/iter_2181.pth',
+    type='xtuner.model.LLaVAModel',
+    visual_encoder=dict(
+        pretrained_model_name_or_path=
+        '/root/autodl-tmp/tzn/Projects/pretrained/clip/clip-vit-large-patch14-336',
+        type='transformers.CLIPVisionModel.from_pretrained'))
+optim_type = 'torch.optim.AdamW'
+optim_wrapper = dict(
+    optimizer=dict(
+        betas=(
+            0.9,
+            0.999,
+        ),
+        lr=2e-05,
+        type='torch.optim.AdamW',
+        weight_decay=0),
+    type='DeepSpeedOptimWrapper')
+param_scheduler = [
+    dict(
+        begin=0,
+        by_epoch=True,
+        convert_to_iter_based=True,
+        end=0.03,
+        start_factor=1e-05,
+        type='mmengine.optim.LinearLR'),
+    dict(
+        begin=0.03,
+        by_epoch=True,
+        convert_to_iter_based=True,
+        end=1,
+        eta_min=0.0,
+        type='mmengine.optim.CosineAnnealingLR'),
+]
+pretrained_pth = './work_dirs/llava_phi3_mini_4k_instruct_clip_vit_large_p14_336_e1_gpu8_pretrain_copy/iter_2181.pth'
+prompt_template = 'xtuner.utils.PROMPT_TEMPLATE.phi3_chat'
+randomness = dict(deterministic=False, seed=None)
+resume = False
+runner_type = 'FlexibleRunner'
+save_steps = 1000
+save_total_limit = 2
+strategy = dict(
+    config=dict(
+        bf16=dict(enabled=True),
+        fp16=dict(enabled=False, initial_scale_power=16),
+        gradient_accumulation_steps='auto',
+        gradient_clipping='auto',
+        train_micro_batch_size_per_gpu='auto',
+        zero_allow_untested_optimizer=True,
+        zero_force_ds_cpu_optimizer=False,
+        zero_optimization=dict(overlap_comm=True, stage=2)),
+    exclude_frozen_parameters=True,
+    gradient_accumulation_steps=2,
+    gradient_clipping=1,
+    sequence_parallel_size=1,
+    train_micro_batch_size_per_gpu=8,
+    type='xtuner.engine.DeepSpeedStrategy')
+tokenizer = dict(
+    padding_side='right',
+    pretrained_model_name_or_path=
+    '/root/autodl-tmp/tzn/Projects/pretrained/LLM-Research/Phi-3-mini-4k-instruct',
+    trust_remote_code=True,
+    type='transformers.AutoTokenizer.from_pretrained')
+train_cfg = dict(max_epochs=1, type='xtuner.engine.runner.TrainLoop')
+train_dataloader = dict(
+    batch_size=8,
+    collate_fn=dict(type='xtuner.dataset.collate_fns.default_collate_fn'),
+    dataset=dict(
+        data_path=
+        './data/llava_data/LLaVA-Instruct-150K/llava_v1_5_mix665k.json',
+        dataset_map_fn='xtuner.dataset.map_fns.llava_map_fn',
+        image_folder='./data/llava_data/llava_images',
+        image_processor=dict(
+            pretrained_model_name_or_path=
+            '/root/autodl-tmp/tzn/Projects/pretrained/clip/clip-vit-large-patch14-336',
+            trust_remote_code=True,
+            type='transformers.CLIPImageProcessor.from_pretrained'),
+        max_length=1472,
+        pad_image_to_square=True,
+        template_map_fn=dict(
+            template='xtuner.utils.PROMPT_TEMPLATE.phi3_chat',
+            type='xtuner.dataset.map_fns.template_map_fn_factory'),
+        tokenizer=dict(
+            padding_side='right',
+            pretrained_model_name_or_path=
+            '/root/autodl-tmp/tzn/Projects/pretrained/LLM-Research/Phi-3-mini-4k-instruct',
+            trust_remote_code=True,
+            type='transformers.AutoTokenizer.from_pretrained'),
+        type='xtuner.dataset.LLaVADataset'),
+    num_workers=4,
+    pin_memory=True,
+    sampler=dict(
+        length_property='modality_length',
+        per_device_batch_size=16,
+        type='xtuner.dataset.samplers.LengthGroupedSampler'))
+use_wandb = True
+visual_encoder_name_or_path = '/root/autodl-tmp/tzn/Projects/pretrained/clip/clip-vit-large-patch14-336'
+visualizer = dict(
+    type='mmengine.visualization.Visualizer',
+    vis_backends=[
+        dict(
+            init_kwargs=dict(project='lava-clipL32-Phi-3-mini'),
+            type='mmengine.visualization.WandbVisBackend'),
+    ])
+wandb_name = 'lava-clipL32-Phi-3-mini'
+warmup_ratio = 0.03
+weight_decay = 0
+work_dir = './work_dirs/llava_phi3_mini_4k_instruct_full_clip_vit_large_p14_336_e1_gpu8_finetune_copy'
+
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+wandb: Currently logged in as: jzyztzn. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.17.3
+wandb: Run data is saved locally in /root/autodl-tmp/tzn/Projects/xtuner/work_dirs/llava_phi3_mini_4k_instruct_full_clip_vit_large_p14_336_e1_gpu8_finetune_copy/20240630_135524/vis_data/wandb/run-20240630_135531-zcidfim1
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run cosmic-darkness-9
+wandb: ⭐️ View project at https://wandb.ai/jzyztzn/lava-clipL32-Phi-3-mini
+wandb: 🚀 View run at https://wandb.ai/jzyztzn/lava-clipL32-Phi-3-mini/runs/zcidfim1
+06/30 13:55:37 - mmengine - WARNING - Failed to search registry with scope "mmengine" in the "builder" registry tree. As a workaround, the current "builder" registry in "xtuner" is used to build instance. This may cause unexpected failure when running the built modules. Please check whether "mmengine" is a correct scope, or whether the registry is initialized.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+06/30 13:55:37 - mmengine - INFO - Hooks will be executed in the following order:
+before_run:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(BELOW_NORMAL) LoggerHook                         
+ -------------------- 
+before_train:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+(NORMAL      ) DatasetInfoHook                    
+(LOW         ) EvaluateChatHook                   
+(VERY_LOW    ) CheckpointHook                     
+ -------------------- 
+before_train_epoch:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+(NORMAL      ) DistSamplerSeedHook                
+ -------------------- 
+before_train_iter:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+ -------------------- 
+after_train_iter:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+(BELOW_NORMAL) LoggerHook                         
+(LOW         ) ParamSchedulerHook                 
+(LOW         ) EvaluateChatHook                   
+(VERY_LOW    ) CheckpointHook                     
+ -------------------- 
+after_train_epoch:
+(NORMAL      ) IterTimerHook                      
+(LOW         ) ParamSchedulerHook                 
+(VERY_LOW    ) CheckpointHook                     
+ -------------------- 
+before_val:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) DatasetInfoHook                    
+ -------------------- 
+before_val_epoch:
+(NORMAL      ) IterTimerHook                      
+ -------------------- 
+before_val_iter:
+(NORMAL      ) IterTimerHook                      
+ -------------------- 
+after_val_iter:
+(NORMAL      ) IterTimerHook                      
+(BELOW_NORMAL) LoggerHook                         
+ -------------------- 
+after_val_epoch:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+(BELOW_NORMAL) LoggerHook                         
+(LOW         ) ParamSchedulerHook                 
+(VERY_LOW    ) CheckpointHook                     
+ -------------------- 
+after_val:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(LOW         ) EvaluateChatHook                   
+ -------------------- 
+after_train:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(LOW         ) EvaluateChatHook                   
+(VERY_LOW    ) CheckpointHook                     
+ -------------------- 
+before_test:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) DatasetInfoHook                    
+ -------------------- 
+before_test_epoch:
+(NORMAL      ) IterTimerHook                      
+ -------------------- 
+before_test_iter:
+(NORMAL      ) IterTimerHook                      
+ -------------------- 
+after_test_iter:
+(NORMAL      ) IterTimerHook                      
+(BELOW_NORMAL) LoggerHook                         
+ -------------------- 
+after_test_epoch:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+(BELOW_NORMAL) LoggerHook                         
+ -------------------- 
+after_test:
+(VERY_HIGH   ) RuntimeInfoHook                    
+ -------------------- 
+after_run:
+(BELOW_NORMAL) LoggerHook                         
+ -------------------- 
+06/30 13:55:58 - mmengine - INFO - xtuner_dataset_timeout = 1:00:00
+Map (num_proc=32):   0%|          | 0/665298 [00:00<?, ? examples/s]Map (num_proc=32):   0%|          | 456/665298 [00:05<2:22:10, 77.94 examples/s]Map (num_proc=32):   0%|          | 1658/665298 [00:06<30:52, 358.33 examples/s]Map (num_proc=32):   0%|          | 2509/665298 [00:06<17:45, 622.13 examples/s]Map (num_proc=32):   1%|          | 3401/665298 [00:06<11:15, 979.35 examples/s]Map (num_proc=32):   1%|          | 4186/665298 [00:06<07:57, 1384.42 examples/s]Map (num_proc=32):   1%|          | 5000/665298 [00:06<05:49, 1891.94 examples/s]Map (num_proc=32):   1%|          | 6000/665298 [00:06<04:09, 2642.37 examples/s]Map (num_proc=32):   1%|          | 7000/665298 [00:06<03:25, 3195.65 examples/s]Map (num_proc=32):   1%|          | 7991/665298 [00:06<02:43, 4029.17 examples/s]Map (num_proc=32):   1%|▏         | 9022/665298 [00:06<02:11, 4980.84 examples/s]Map (num_proc=32):   2%|▏         | 10000/665298 [00:07<04:40, 2339.12 examples/s]Map (num_proc=32):   2%|▏         | 11661/665298 [00:08<03:01, 3603.30 examples/s]Map (num_proc=32):   2%|▏         | 12500/665298 [00:08<05:10, 2100.91 examples/s]Map (num_proc=32):   3%|▎         | 21242/665298 [00:09<01:49, 5906.69 examples/s]Map (num_proc=32):   3%|▎         | 22391/665298 [00:09<01:45, 6089.95 examples/s]Map (num_proc=32):   4%|▎         | 23294/665298 [00:09<01:42, 6255.18 examples/s]Map (num_proc=32):   4%|▎         | 24290/665298 [00:10<01:45, 6087.54 examples/s]Map (num_proc=32):   4%|▍         | 25791/665298 [00:10<01:38, 6463.83 examples/s]Map (num_proc=32):   4%|▍         | 26785/665298 [00:10<02:30, 4256.24 examples/s]Map (num_proc=32):   4%|▍         | 27448/665298 [00:11<02:49, 3756.17 examples/s]Map (num_proc=32):   4%|▍         | 29791/665298 [00:11<01:48, 5848.14 examples/s]Map (num_proc=32):   5%|▍         | 30768/665298 [00:12<03:31, 3001.97 examples/s]Map (num_proc=32):   6%|▋         | 41582/665298 [00:12<00:54, 11451.73 examples/s]Map (num_proc=32):   7%|▋         | 44582/665298 [00:13<01:34, 6586.42 examples/s] Map (num_proc=32):   7%|▋         | 47513/665298 [00:13<01:16, 8082.03 examples/s]Map (num_proc=32):   8%|▊         | 50039/665298 [00:14<01:51, 5499.94 examples/s]Map (num_proc=32):   8%|▊         | 52554/665298 [00:14<01:30, 6773.77 examples/s]Map (num_proc=32):   8%|▊         | 54550/665298 [00:15<02:19, 4367.01 examples/s]Map (num_proc=32):  10%|▉         | 63212/665298 [00:16<01:21, 7349.20 examples/s]Map (num_proc=32):  10%|█         | 68304/665298 [00:16<00:58, 10129.09 examples/s]Map (num_proc=32):  11%|█         | 71288/665298 [00:16<00:54, 10825.19 examples/s]Map (num_proc=32):  11%|█         | 73375/665298 [00:16<00:54, 10766.68 examples/s]Map (num_proc=32):  11%|█▏        | 75373/665298 [00:16<00:50, 11584.19 examples/s]Map (num_proc=32):  12%|█▏        | 77664/665298 [00:17<01:17, 7596.22 examples/s] Map (num_proc=32):  12%|█▏        | 79287/665298 [00:17<01:22, 7142.44 examples/s]Map (num_proc=32):  12%|█▏        | 81373/665298 [00:17<01:07, 8643.06 examples/s]Map (num_proc=32):  13%|█▎        | 84002/665298 [00:19<02:16, 4272.93 examples/s]Map (num_proc=32):  13%|█▎        | 86164/665298 [00:19<01:50, 5256.94 examples/s]Map (num_proc=32):  13%|█▎        | 87770/665298 [00:19<01:33, 6198.81 examples/s]Map (num_proc=32):  13%|█▎        | 89164/665298 [00:19<01:21, 7052.85 examples/s]Map (num_proc=32):  14%|█▎        | 90631/665298 [00:19<01:11, 8092.56 examples/s]Map (num_proc=32):  14%|█▍        | 92164/665298 [00:19<01:02, 9159.73 examples/s]Map (num_proc=32):  14%|█▍        | 93620/665298 [00:19<00:56, 10169.26 examples/s]Map (num_proc=32):  14%|█▍        | 95164/665298 [00:19<00:51, 11082.55 examples/s]Map (num_proc=32):  15%|█▍        | 96649/665298 [00:20<00:51, 11129.13 examples/s]Map (num_proc=32):  15%|█▍        | 98164/665298 [00:20<00:48, 11755.81 examples/s]Map (num_proc=32):  15%|█▍        | 99764/665298 [00:20<02:02, 4627.63 examples/s] Map (num_proc=32):  15%|█▌        | 102041/665298 [00:21<01:27, 6412.14 examples/s]Map (num_proc=32):  16%|█▌        | 104792/665298 [00:22<02:41, 3480.34 examples/s]Map (num_proc=32):  16%|█▌        | 106955/665298 [00:22<02:03, 4522.79 examples/s]Map (num_proc=32):  16%|█▋        | 108564/665298 [00:22<01:41, 5500.55 examples/s]Map (num_proc=32):  17%|█▋        | 109957/665298 [00:22<01:26, 6408.92 examples/s]Map (num_proc=32):  17%|█▋        | 111433/665298 [00:22<01:13, 7522.45 examples/s]Map (num_proc=32):  17%|█▋        | 112955/665298 [00:23<01:03, 8658.83 examples/s]Map (num_proc=32):  17%|█▋        | 114415/665298 [00:23<00:56, 9753.42 examples/s]Map (num_proc=32):  17%|█▋        | 115955/665298 [00:23<00:55, 9930.39 examples/s]Map (num_proc=32):  18%|█▊        | 118243/665298 [00:23<00:47, 11406.51 examples/s]Map (num_proc=32):  18%|█▊        | 119867/665298 [00:23<01:04, 8434.19 examples/s] Map (num_proc=32):  18%|█▊        | 121237/665298 [00:24<01:55, 4724.96 examples/s]Map (num_proc=32):  18%|█▊        | 122872/665298 [00:25<02:38, 3417.23 examples/s]Map (num_proc=32):  19%|█▊        | 123955/665298 [00:25<02:15, 4007.38 examples/s]Map (num_proc=32):  19%|█▉        | 125440/665298 [00:25<02:21, 3802.68 examples/s]Map (num_proc=32):  19%|█▉        | 126746/665298 [00:25<01:54, 4715.97 examples/s]Map (num_proc=32):  19%|█▉        | 128317/665298 [00:25<01:28, 6083.46 examples/s]Map (num_proc=32):  20%|█▉        | 129746/665298 [00:26<01:13, 7298.82 examples/s]Map (num_proc=32):  20%|█▉        | 131246/665298 [00:26<01:01, 8659.07 examples/s]Map (num_proc=32):  20%|█▉        | 132746/665298 [00:26<00:54, 9815.00 examples/s]Map (num_proc=32):  20%|██        | 134326/665298 [00:26<00:47, 11072.69 examples/s]Map (num_proc=32):  20%|██        | 135746/665298 [00:26<00:50, 10556.88 examples/s]Map (num_proc=32):  21%|██        | 137983/665298 [00:26<00:42, 12341.72 examples/s]Map (num_proc=32):  21%|██        | 139657/665298 [00:27<01:40, 5232.46 examples/s] Map (num_proc=32):  21%|██        | 140992/665298 [00:27<01:26, 6082.29 examples/s]Map (num_proc=32):  21%|██▏       | 142658/665298 [00:28<01:54, 4572.83 examples/s]Map (num_proc=32):  22%|██▏       | 143746/665298 [00:28<02:06, 4137.70 examples/s]Map (num_proc=32):  22%|██▏       | 146368/665298 [00:29<02:18, 3749.73 examples/s]Map (num_proc=32):  22%|██▏       | 148457/665298 [00:29<01:44, 4954.11 examples/s]Map (num_proc=32):  23%|██▎       | 149756/665298 [00:29<01:29, 5764.39 examples/s]Map (num_proc=32):  23%|██▎       | 151448/665298 [00:29<01:15, 6828.00 examples/s]Map (num_proc=32):  23%|██▎       | 153537/665298 [00:29<01:00, 8398.19 examples/s]Map (num_proc=32):  23%|██▎       | 155080/665298 [00:30<01:31, 5574.50 examples/s]Map (num_proc=32):  24%|██▎       | 156521/665298 [00:30<01:35, 5308.95 examples/s]Map (num_proc=32):  24%|██▎       | 157796/665298 [00:31<02:52, 2935.52 examples/s]Map (num_proc=32):  25%|██▌       | 166749/665298 [00:32<01:11, 7003.45 examples/s]Map (num_proc=32):  25%|██▌       | 167837/665298 [00:32<01:10, 7040.03 examples/s]Map (num_proc=32):  25%|██▌       | 168946/665298 [00:32<01:10, 7085.95 examples/s]Map (num_proc=32):  26%|██▌       | 169757/665298 [00:32<01:10, 7056.18 examples/s]Map (num_proc=32):  26%|██▌       | 170902/665298 [00:32<01:12, 6856.81 examples/s]Map (num_proc=32):  26%|██▌       | 171765/665298 [00:32<01:10, 6964.40 examples/s]Map (num_proc=32):  26%|██▌       | 172879/665298 [00:33<02:30, 3270.31 examples/s]Map (num_proc=32):  26%|██▌       | 173776/665298 [00:33<02:09, 3806.15 examples/s]Map (num_proc=32):  26%|██▌       | 174482/665298 [00:34<03:40, 2227.25 examples/s]Map (num_proc=32):  28%|██▊       | 186328/665298 [00:34<00:42, 11354.43 examples/s]Map (num_proc=32):  28%|██▊       | 189057/665298 [00:36<01:16, 6191.24 examples/s] Map (num_proc=32):  29%|██▊       | 191065/665298 [00:36<01:42, 4626.11 examples/s]Map (num_proc=32):  29%|██▉       | 192571/665298 [00:37<01:32, 5129.52 examples/s]Map (num_proc=32):  29%|██▉       | 194119/665298 [00:38<02:08, 3654.12 examples/s]Map (num_proc=32):  31%|███       | 204197/665298 [00:38<00:47, 9627.77 examples/s]Map (num_proc=32):  31%|███▏      | 208006/665298 [00:38<00:48, 9493.64 examples/s]Map (num_proc=32):  32%|███▏      | 210910/665298 [00:38<00:46, 9753.35 examples/s]Map (num_proc=32):  32%|███▏      | 213347/665298 [00:40<01:36, 4664.65 examples/s]Map (num_proc=32):  32%|███▏      | 215361/665298 [00:41<01:56, 3862.68 examples/s]Map (num_proc=32):  34%|███▍      | 229130/665298 [00:41<00:45, 9522.37 examples/s]Map (num_proc=32):  35%|███▍      | 231591/665298 [00:41<00:47, 9064.08 examples/s]Map (num_proc=32):  35%|███▌      | 233611/665298 [00:42<00:48, 8822.40 examples/s]Map (num_proc=32):  35%|███▌      | 235169/665298 [00:42<00:52, 8164.48 examples/s]Map (num_proc=32):  36%|███▌      | 236701/665298 [00:42<00:52, 8122.61 examples/s]Map (num_proc=32):  36%|███▌      | 237751/665298 [00:43<01:30, 4732.48 examples/s]Map (num_proc=32):  36%|███▌      | 238948/665298 [00:43<01:22, 5179.58 examples/s]Map (num_proc=32):  36%|███▌      | 240144/665298 [00:44<01:47, 3941.35 examples/s]Map (num_proc=32):  36%|███▋      | 241431/665298 [00:44<01:50, 3852.63 examples/s]Map (num_proc=32):  38%|███▊      | 250336/665298 [00:46<01:22, 5009.68 examples/s]Map (num_proc=32):  38%|███▊      | 250967/665298 [00:46<01:44, 3953.20 examples/s]Map (num_proc=32):  38%|███▊      | 254119/665298 [00:46<01:14, 5492.27 examples/s]Map (num_proc=32):  38%|███▊      | 255538/665298 [00:47<01:28, 4608.95 examples/s]Map (num_proc=32):  39%|███▊      | 257058/665298 [00:47<01:29, 4552.41 examples/s]Map (num_proc=32):  41%|████      | 271128/665298 [00:48<00:31, 12413.88 examples/s]Map (num_proc=32):  41%|████      | 273283/665298 [00:48<00:31, 12601.19 examples/s]Map (num_proc=32):  41%|████▏     | 274911/665298 [00:48<00:30, 12980.31 examples/s]Map (num_proc=32):  42%|████▏     | 277137/665298 [00:48<00:29, 13285.58 examples/s]Map (num_proc=32):  42%|████▏     | 279283/665298 [00:48<00:28, 13456.75 examples/s]Map (num_proc=32):  42%|████▏     | 280924/665298 [00:48<00:27, 13935.28 examples/s]Map (num_proc=32):  43%|████▎     | 283147/665298 [00:49<00:28, 13503.76 examples/s]Map (num_proc=32):  43%|████▎     | 285283/665298 [00:49<00:26, 14195.16 examples/s]Map (num_proc=32):  43%|████▎     | 286902/665298 [00:49<01:01, 6160.12 examples/s] Map (num_proc=32):  43%|████▎     | 289204/665298 [00:50<00:47, 7964.09 examples/s]Map (num_proc=32):  44%|████▍     | 291074/665298 [00:50<01:23, 4496.90 examples/s]Map (num_proc=32):  44%|████▍     | 292569/665298 [00:51<01:29, 4154.54 examples/s]Map (num_proc=32):  44%|████▍     | 294074/665298 [00:51<01:13, 5064.42 examples/s]Map (num_proc=32):  44%|████▍     | 295714/665298 [00:51<00:58, 6289.13 examples/s]Map (num_proc=32):  45%|████▍     | 297148/665298 [00:51<00:49, 7365.05 examples/s]Map (num_proc=32):  45%|████▍     | 298606/665298 [00:51<00:43, 8521.16 examples/s]Map (num_proc=32):  45%|████▌     | 300074/665298 [00:51<00:37, 9623.04 examples/s]Map (num_proc=32):  45%|████▌     | 301721/665298 [00:51<00:32, 11054.05 examples/s]Map (num_proc=32):  46%|████▌     | 303167/665298 [00:52<00:31, 11496.08 examples/s]Map (num_proc=32):  46%|████▌     | 304983/665298 [00:52<00:29, 12407.06 examples/s]Map (num_proc=32):  46%|████▌     | 307074/665298 [00:52<01:06, 5418.06 examples/s] Map (num_proc=32):  47%|████▋     | 310074/665298 [00:53<00:44, 7965.15 examples/s]Map (num_proc=32):  47%|████▋     | 311665/665298 [00:53<01:18, 4529.68 examples/s]Map (num_proc=32):  47%|████▋     | 313343/665298 [00:54<01:27, 4025.65 examples/s]Map (num_proc=32):  47%|████▋     | 314865/665298 [00:54<01:10, 4943.26 examples/s]Map (num_proc=32):  47%|████▋     | 315975/665298 [00:54<01:02, 5598.40 examples/s]Map (num_proc=32):  48%|████▊     | 317277/665298 [00:54<00:59, 5810.33 examples/s]Map (num_proc=32):  48%|████▊     | 318267/665298 [00:55<00:58, 5883.75 examples/s]Map (num_proc=32):  48%|████▊     | 319256/665298 [00:55<00:58, 5918.67 examples/s]Map (num_proc=32):  48%|████▊     | 320256/665298 [00:55<01:40, 3448.42 examples/s]Map (num_proc=32):  48%|████▊     | 320865/665298 [00:56<01:52, 3051.78 examples/s]Map (num_proc=32):  48%|████▊     | 321655/665298 [00:56<02:33, 2237.64 examples/s]Map (num_proc=32):  48%|████▊     | 322244/665298 [00:57<02:42, 2112.32 examples/s]Map (num_proc=32):  50%|████▉     | 331865/665298 [00:57<00:29, 11257.82 examples/s]Map (num_proc=32):  50%|█████     | 334971/665298 [00:58<00:45, 7330.18 examples/s] Map (num_proc=32):  51%|█████     | 337477/665298 [00:58<00:42, 7687.33 examples/s]Map (num_proc=32):  51%|█████     | 339468/665298 [00:59<01:06, 4921.09 examples/s]Map (num_proc=32):  51%|█████▏    | 341466/665298 [00:59<00:54, 5897.88 examples/s]Map (num_proc=32):  52%|█████▏    | 342989/665298 [01:00<01:18, 4094.94 examples/s]Map (num_proc=32):  52%|█████▏    | 344471/665298 [01:00<01:05, 4875.93 examples/s]Map (num_proc=32):  53%|█████▎    | 351096/665298 [01:00<00:29, 10476.76 examples/s]Map (num_proc=32):  53%|█████▎    | 353844/665298 [01:00<00:32, 9528.53 examples/s] Map (num_proc=32):  53%|█████▎    | 355924/665298 [01:01<00:35, 8682.68 examples/s]Map (num_proc=32):  54%|█████▍    | 357945/665298 [01:02<01:21, 3760.82 examples/s]Map (num_proc=32):  54%|█████▍    | 359205/665298 [01:02<01:12, 4222.72 examples/s]Map (num_proc=32):  54%|█████▍    | 360476/665298 [01:03<01:37, 3138.81 examples/s]Map (num_proc=32):  56%|█████▌    | 372376/665298 [01:03<00:27, 10702.22 examples/s]Map (num_proc=32):  57%|█████▋    | 376796/665298 [01:04<00:30, 9384.50 examples/s] Map (num_proc=32):  57%|█████▋    | 380135/665298 [01:06<01:12, 3933.54 examples/s]Map (num_proc=32):  58%|█████▊    | 388840/665298 [01:06<00:39, 6959.15 examples/s]Map (num_proc=32):  59%|█████▉    | 392416/665298 [01:07<00:38, 7141.08 examples/s]Map (num_proc=32):  59%|█████▉    | 395420/665298 [01:07<00:35, 7551.01 examples/s]Map (num_proc=32):  60%|█████▉    | 397853/665298 [01:07<00:34, 7840.64 examples/s]Map (num_proc=32):  60%|██████    | 399839/665298 [01:08<00:33, 7868.77 examples/s]Map (num_proc=32):  60%|██████    | 401633/665298 [01:09<00:52, 5069.30 examples/s]Map (num_proc=32):  61%|██████    | 402941/665298 [01:10<01:27, 2998.51 examples/s]Map (num_proc=32):  62%|██████▏   | 411028/665298 [01:10<00:36, 6941.51 examples/s]Map (num_proc=32):  62%|██████▏   | 413940/665298 [01:11<00:39, 6442.16 examples/s]Map (num_proc=32):  63%|██████▎   | 416207/665298 [01:11<00:40, 6161.28 examples/s]Map (num_proc=32):  63%|██████▎   | 417818/665298 [01:12<00:46, 5342.72 examples/s]Map (num_proc=32):  63%|██████▎   | 419126/665298 [01:13<01:34, 2616.82 examples/s]Map (num_proc=32):  64%|██████▍   | 427743/665298 [01:13<00:36, 6424.96 examples/s]Map (num_proc=32):  65%|██████▍   | 431026/665298 [01:14<00:33, 6902.16 examples/s]Map (num_proc=32):  65%|██████▌   | 433700/665298 [01:14<00:30, 7499.75 examples/s]Map (num_proc=32):  66%|██████▌   | 435778/665298 [01:14<00:29, 7711.07 examples/s]Map (num_proc=32):  66%|██████▌   | 437753/665298 [01:14<00:28, 8084.13 examples/s]Map (num_proc=32):  66%|██████▌   | 439392/665298 [01:15<00:46, 4882.31 examples/s]Map (num_proc=32):  66%|██████▌   | 440751/665298 [01:16<00:43, 5209.11 examples/s]Map (num_proc=32):  66%|██████▋   | 441765/665298 [01:16<00:47, 4717.20 examples/s]Map (num_proc=32):  67%|██████▋   | 442716/665298 [01:17<01:15, 2956.94 examples/s]Map (num_proc=32):  67%|██████▋   | 447608/665298 [01:17<00:43, 5059.06 examples/s]Map (num_proc=32):  68%|██████▊   | 453930/665298 [01:17<00:22, 9449.75 examples/s]Map (num_proc=32):  69%|██████▊   | 456116/665298 [01:18<00:24, 8377.23 examples/s]Map (num_proc=32):  69%|██████▉   | 457774/665298 [01:18<00:28, 7349.94 examples/s]Map (num_proc=32):  69%|██████▉   | 459171/665298 [01:19<00:51, 4007.90 examples/s]Map (num_proc=32):  69%|██████▉   | 460115/665298 [01:19<00:54, 3758.31 examples/s]Map (num_proc=32):  69%|██████▉   | 460934/665298 [01:20<01:20, 2541.53 examples/s]Map (num_proc=32):  70%|██████▉   | 464398/665298 [01:21<00:54, 3696.92 examples/s]Map (num_proc=32):  70%|███████   | 468574/665298 [01:21<00:31, 6199.72 examples/s]Map (num_proc=32):  71%|███████   | 470161/665298 [01:21<00:33, 5862.43 examples/s]Map (num_proc=32):  71%|███████   | 471321/665298 [01:21<00:34, 5669.30 examples/s]Map (num_proc=32):  71%|███████   | 472462/665298 [01:22<00:40, 4727.68 examples/s]Map (num_proc=32):  71%|███████   | 473385/665298 [01:22<00:53, 3589.05 examples/s]Map (num_proc=32):  71%|███████▏  | 474030/665298 [01:23<00:49, 3834.54 examples/s]Map (num_proc=32):  71%|███████▏  | 475233/665298 [01:23<01:02, 3062.46 examples/s]Map (num_proc=32):  72%|███████▏  | 475902/665298 [01:23<01:08, 2756.69 examples/s]Map (num_proc=32):  73%|███████▎  | 486020/665298 [01:24<00:14, 12382.85 examples/s]Map (num_proc=32):  73%|███████▎  | 488938/665298 [01:24<00:16, 11014.35 examples/s]Map (num_proc=32):  74%|███████▍  | 491260/665298 [01:24<00:16, 10515.64 examples/s]Map (num_proc=32):  74%|███████▍  | 493317/665298 [01:27<01:03, 2701.79 examples/s] Map (num_proc=32):  77%|███████▋  | 513732/665298 [01:27<00:15, 9486.04 examples/s]Map (num_proc=32):  78%|███████▊  | 516978/665298 [01:27<00:14, 10566.23 examples/s]Map (num_proc=32):  78%|███████▊  | 519748/665298 [01:28<00:14, 10338.32 examples/s]Map (num_proc=32):  78%|███████▊  | 522119/665298 [01:28<00:13, 10300.85 examples/s]Map (num_proc=32):  79%|███████▉  | 524154/665298 [01:30<00:36, 3848.03 examples/s] Map (num_proc=32):  81%|████████  | 540494/665298 [01:30<00:11, 10475.20 examples/s]Map (num_proc=32):  82%|████████▏ | 546195/665298 [01:32<00:19, 6131.19 examples/s] Map (num_proc=32):  83%|████████▎ | 550259/665298 [01:33<00:20, 5711.34 examples/s]Map (num_proc=32):  84%|████████▍ | 557660/665298 [01:34<00:13, 8224.02 examples/s]Map (num_proc=32):  84%|████████▍ | 561793/665298 [01:37<00:25, 3982.70 examples/s]Map (num_proc=32):  87%|████████▋ | 579318/665298 [01:37<00:09, 8870.86 examples/s]
